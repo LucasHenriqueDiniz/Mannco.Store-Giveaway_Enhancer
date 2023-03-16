@@ -2,7 +2,7 @@
 ##What this extensions adds?
 - A button for each Giveaway to easily Join or Leave without needing to enter the giveaway page.
 - Show all giveaways in one page, removing the navigation tabs.
-- A button showing how many giveaways you are missing. Clicking on the button will take you to the missing giveaway.
+- A button for showing how many giveaways you are missing. Clicking on the button will take you to the missing giveaway.
 - A border around all giveaways, indicating whether you have already joined them or not.
 
 ## Instalation
