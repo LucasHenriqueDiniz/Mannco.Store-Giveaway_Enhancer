@@ -1,7 +1,11 @@
-# Mannco.Store-Giveway_Enhancer
-##What this extensions adds?
-- A button for each Giveaway to easily Join or Leave without needing to enter the giveaway page.
-- Show all giveaways in one page, removing the navigation tabs.
+# Mannco.Store Giveaway Enhancer
+
+## Description
+Mannco.Store Giveaway Enhancer is a browser extension that enhances the functionality of the giveaway pages on Mannco.Store. This extension adds several features to make it easier for users to join or leave giveaways, view all giveaways on one page, and keep track of which giveaways they have already joined.
+
+## Features
+- A button for each giveaway to easily join or leave without needing to enter the giveaway page.
+- All giveaways displayed on one page, removing the need for navigation tabs.
 - A button for showing how many giveaways you are missing. Clicking on the button will take you to the missing giveaway.
 - A border around all giveaways, indicating whether you have already joined them or not.
 
@@ -9,6 +13,8 @@
 - Install [Tampermonkey](https://www.tampermonkey.net/). 
 - Open the script in [raw view](https://github.com/LucasHenriqueDiniz/Mannco.Store-Giveaway_Enhancer/raw/main/Mannco.Store-Giveaway_Enhancer.user.js).
 - Install.
+
+Once installed, the extension will automatically enhance the giveaway pages on Mannco.Store, making it easier for you to join or leave giveaways and keep track of your progress.
 
 ## Images
 ![image](https://user-images.githubusercontent.com/63087780/225740924-67f42474-09ba-4fa9-b5a2-93f1e3539fa0.png)
