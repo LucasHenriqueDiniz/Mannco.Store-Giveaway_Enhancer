@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Mannco.Store Giveway Enhancer
 // @namespace    https://github.com/LucasHenriqueDiniz
-// @version      0.12
+// @version      0.15
 // @description  create a buttons to easily join manncogiveways and other funcionalities
 // @author       Lucas Diniz
 // @license      MIT
-// @match        https://mannco.store/giveaways
+// @match        *://mannco.store/giveaways
+// @match        *://mannco.store/*/giveaways
 // @icon         https://cdn-icons-png.flaticon.com/512/4470/4470928.png
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @grant        none
