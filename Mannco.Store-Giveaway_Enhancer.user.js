@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mannco.Store Giveway Enhancer
 // @namespace    https://github.com/LucasHenriqueDiniz
-// @version      0.15
+// @version      0.151
 // @description  create a buttons to easily join manncogiveways and other funcionalities
 // @author       Lucas Diniz
 // @license      MIT
@@ -19,6 +19,7 @@
 
 (function () {
   // join and leave giveway functions
+    document.querySelector("#main > div > div.raffle-list.list-group.rfl").style.width = '100%';
   function join(url) {
     let raffle = url;
     $.ajax({
@@ -228,7 +229,7 @@
       const referenceRect = parentElement.getBoundingClientRect();
 
       // Set the dimensions of the new element
-      newElement.style.width = '5%';
+      newElement.style.maxWidth = '5%';
       newElement.style.justifyContent = 'space-between';
       newElement.style.display = 'flex';
       newElement.style.flexDirection = 'column';
